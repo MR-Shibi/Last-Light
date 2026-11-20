@@ -7,12 +7,12 @@
 ---
 
 ## Team Information
-* **Team Name:** `[Enter Your Team Name]`
+* **Team Name:** `Accidental_Game_Devs`
 * **Team Members:**
-  * `[Member 1 Name — Role]`
-  * `[Member 2 Name — Role]`
-  * `[Member 3 Name — Role]`
-  * `[Member 4 Name — Role]`
+  * `Shoaib Hayat`
+  * `Huzaifa Ahmed Bari`
+  * `Uzair Ibrahim`
+  * `Danish Ahmed`
 
 ---
 
@@ -48,8 +48,6 @@ While camping deep in the jungle, you are ambushed and kidnapped by bandits (*Da
 
 ## Asset Credits & Third-Party Resources
 * **Game Engine:** Unity 3D (Android Build Support)
-* **3D Models & Characters:** `[List any imported .fbx/.glb models from Mixamo / Kenney / Sketchfab / Unity Asset Store, plus procedural 3D mansion & lantern geometry built in Unity]`
-* **Audio & Sound Effects:** `[List any imported SFX/music from Freesound / Kenney, plus procedural Web/Unity AudioClip synthesis]`
 * **Fonts & UI:** Unity UI / TextMeshPro & custom procedural gothic/parchment UI graphics
 
 ---
